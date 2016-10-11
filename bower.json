@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "description": "weather app for epicodus javascript course",
+  "main": "gulpfile.js",
+  "authors": [
+    "matt & Marta"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "weather",
+    "epicodus",
+    "javascript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
